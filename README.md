@@ -9,7 +9,7 @@ This is a simple expense tracker app built with React. Users can add new expense
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ## Features
 
@@ -26,6 +26,7 @@ This is a simple expense tracker app built with React. Users can add new expense
    git clone https://github.com/nirmitkotadiya/Expense_Tracker.git
 
 2. Navigate to the project directory in your terminal:
+
      **cd expense-tracker**
 
 3. Run the following command to install dependencies:
@@ -38,11 +39,30 @@ This is a simple expense tracker app built with React. Users can add new expense
 
      **npm start**
 
-2. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to use the Expense Tracker App.
+2. Open your web browser and visit **[http://localhost:3000](http://localhost:3000)** to use the Expense Tracker App.
 
 3. Use the app to add, filter, and view expenses.
 
 
+## Folder Structure
+* ### src/components/Chart
+   * ##### Chart
+   * ##### ChartBar
+ 
+* ### src/components/Expenses
+   * ##### ExpenseDate
+   * ##### ExpenseItem
+   * ##### Expenses
+   * ##### ExpensesChart
+   * ##### ExpensesFilter
+   * ##### ExpensesList
+
+* ### src/components/NewExpense
+   * ##### ExpenseForm
+   * ##### NewExpense
+
+* ### src/components/UI
+   * ##### Card
 
 ## Contributing
 
@@ -57,7 +77,7 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Author
 
-This Expense Tracker App was created by Nirmit Kotadiya and Dharmik Donda.
+This Expense Tracker App was created by **Nirmit Kotadiya** and **Dharmik Donda.**
 
 
 Feel free to use and modify this Expense Tracker App for your own educational purposes or as part of a React project. If you have any questions or need assistance, please contact the author.
