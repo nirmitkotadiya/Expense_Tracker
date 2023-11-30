@@ -46,23 +46,23 @@ This is a simple expense tracker app built with React. Users can add new expense
 
 ## Folder Structure
 * ##### src/components/Chart
-   * ####### Chart
-   * ####### ChartBar
+   * ###### Chart
+   * ###### ChartBar
  
 * ##### src/components/Expenses
-   * ####### ExpenseDate
-   * ####### ExpenseItem
-   * ####### Expenses
-   * ####### ExpensesChart
-   * ####### ExpensesFilter
-   * ####### ExpensesList
+   * ###### ExpenseDate
+   * ###### ExpenseItem
+   * ###### Expenses
+   * ###### ExpensesChart
+   * ###### ExpensesFilter
+   * ###### ExpensesList
 
 * ##### src/components/NewExpense
-   * ####### ExpenseForm
-   * ####### NewExpense
+   * ###### ExpenseForm
+   * ###### NewExpense
 
 * ##### src/components/UI
-   * ####### Card
+   * ###### Card
 
 ## Contributing
 
