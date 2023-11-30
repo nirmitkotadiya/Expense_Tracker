@@ -27,7 +27,7 @@ This is a simple expense tracker app built with React. Users can add new expense
 
 2. Navigate to the project directory in your terminal:
 
-     **cd expense-tracker**
+     **cd Expense_Tracker**
 
 3. Run the following command to install dependencies:
 
